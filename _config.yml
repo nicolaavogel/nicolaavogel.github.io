@@ -1,15 +1,15 @@
 # Site settings
-title: A.P
-baseurl: "/ap"
-url: "https://kssim.github.io"
+title: Nicola Alexandra Vogel 
+baseurl: ""
+url: "https://nicolaavogel.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+  name: Nicola Alexandra Vogel 
+  desc: MSc Bioinformatics, University of Copenhagen
+  email: n.alexandra.vogel@gmail.com
+  selfie: profile.pic.jpg
 
 # social
 social:
@@ -17,13 +17,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: 
   flickr:
-  github: kssim
+  github: nicolaavogel
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: https://www.linkedin.com/in/nicola-alexandra-vogel-4333931b6/ 
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter: thankstoxena
   vimeo:
   wordpress:
   youtube:
