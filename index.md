@@ -3,9 +3,12 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+I am a MSc graduate in Bioinformatics from the University of Copenhagen. I conducted my Master thesis and an independent project at the department of GeoGenetics in the GLOBE institute and mainly focussed on improving prediction models for metabarcoding data (The compuational work plus the abstract for both projects can be found on my [github](https://github.com/nicolaavogel). Additionally, I completed a team project at the Deparmtment of Biology about the Population Genomics of African Leopards. See my full CV ![here](CV.pdf).
+
+I completed my Bachelor in Biology at the University in Hamburg and gained my first Bioinformatics experiences during my thesis in Ecosystem modelling at the Department of Hydrobiology and Fishery Science. 
+
+My main research interest lies in genomic and metagenomic data analysis, especaially regarding environmental changes and adaptations. 
+
 
 <br/>
 
@@ -29,7 +32,6 @@ I wrote "about me", "career", and "interests" on this page as an example.
 *Analysis of the difference in phosphorus uptake between dinoflagellates based on an predefined ecosystem model using R.*   
 
 
-<br/>
 
-# Interests
+
  
