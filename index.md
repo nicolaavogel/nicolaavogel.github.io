@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-I am a MSc graduate in Bioinformatics from the University of Copenhagen. I conducted my Master thesis and an independent project at the department of GeoGenetics in the GLOBE institute and mainly focussed on improving prediction models for metabarcoding data (The compuational work plus the abstract for both projects can be found on my [github](https://github.com/nicolaavogel). Additionally, I completed a team project at the Deparmtment of Biology about the Population Genomics of African Leopards. See my full CV ![here](CV.pdf).
+I am a MSc graduate in Bioinformatics from the University of Copenhagen. I conducted my Master thesis and an independent project at the department of GeoGenetics in the GLOBE institute and mainly focussed on improving prediction models for metabarcoding data (The compuational work plus the abstract for both projects can be found on my [github](https://github.com/nicolaavogel). Additionally, I completed a team project at the Deparmtment of Biology about the Population Genomics of African Leopards.
 
 I completed my Bachelor in Biology at the University in Hamburg and gained my first Bioinformatics experiences during my thesis in Ecosystem modelling at the Department of Hydrobiology and Fishery Science. 
 
