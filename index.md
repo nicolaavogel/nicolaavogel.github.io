@@ -14,14 +14,8 @@ My main research interest lies in genomic and metagenomic data analysis, especia
 <br/>
 
 # Education
-**2018 - 2020 Master of Science in Bioinformatics** (Computational Biology)      
+**September 2018 - October 2020 Master of Science in Bioinformatics** (Computational Biology)      
 *The University of Copenhagen, Copenhagen, DK* 
 
-**2014 - 2018 Bachelor of Science in Biology**    
+**October 2014 - July 2018 Bachelor of Science in Biology**    
 *The University of Hamburg, Hamburg, Germany*    
-
-
-
-
-
- 
